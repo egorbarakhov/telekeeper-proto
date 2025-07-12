@@ -1,0 +1,5 @@
+/python/telekeeper_grpc/*
+!/python/telekeeper_grpc/.keep
+
+/ruby/lib/*
+!/ruby/lib/.keep
