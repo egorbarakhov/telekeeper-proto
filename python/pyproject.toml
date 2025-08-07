@@ -4,5 +4,6 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "telekeeper-grpc"
-version = # TODO parse from env
+# TODO parse from env
+version = ""
 dynamic = ["version"]
